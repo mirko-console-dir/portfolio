@@ -1,0 +1,49 @@
+{
+    "hero": {
+        "greetings": "Hi, I'm",
+        "nameDev": "Mirko",
+        "intro": "I specialize in building dynamic web applications with a focus on front-end and back-end integration."
+    },
+    "about": {
+        "title": "Introduction",
+        "subTitle": "Overview",
+        "description": "With nearly four years of comprehensive experience in both frontend and backend development, I have honed my skills in creating efficient, scalable, and user-friendly applications. My expertise lies in frontend frameworks such as React, Angular, and Vue, as well as backend development with Laravel.\n\nMy career has taken me from Italy to Australia, where I have continuously grown as a developer, embracing diverse challenges and delivering innovative solutions. Integrated frontend interfaces with backend actions to create cohesive and functional web applications.\n\nI look forward to join a collaborative team where I can contribute innovative solutions to challenging problems and work together to achieve exceptional results."
+    },
+    "experience": {
+        "title": "What I have done so far",
+        "subTitle": "Work Experience"
+    },
+    "tech": {
+        "title": "Tech",
+        "subTitle": "These are the technologies used"
+    },
+    "works": {
+        "title": "My work",
+        "subTitle": "Projects",
+        "description": "Following some projects showcase my skills and experience through real-world examples of my work. It reflects my ability to work with different technologies, solve problems and manage projects effectively.",
+        "gitHubSection": {
+            "title": "Explore",
+            "subTitle": "other projects on my GitHub"
+        }
+    },
+    "feedbacks": {
+        "title": "What others say",
+        "subTitle": "Testimonials"
+    },
+    "contact": {
+        "title": "Get in touch",
+        "subTitle": "Contact",
+        "form": {
+            "enterName": "Your Name",
+            "namePH": "What's your name?",
+            "enterEmail": "Your email",
+            "emailPH": "Email",
+            "enterMessage": "Your Message",
+            "messagePH": "Message..."
+        }
+    },
+    "noLinkRepos": {
+        "message": "Sorry, private repository.",
+        "button": "Ok"
+    }
+}

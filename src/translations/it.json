@@ -1,0 +1,49 @@
+{
+    "hero": {
+        "greetings": "Ciao, sono",
+        "nameDev": "Mirko",
+        "intro": "Mi specializzo nella creazione di applicazioni web dinamiche con un focus sull'integrazione fluida tra front-end e back-end."
+    },
+    "about": {
+        "title": "Presentazione",
+        "subTitle": "Panoramica",
+        "description": "Con quasi quattro anni di esperienza completa nello sviluppo frontend e backend, ho affinato le mie competenze nella creazione di applicazioni efficienti, scalabili e facili da usare. La mia esperienza risiede nei framework frontend come React, Angular e Vue, nonché nello sviluppo backend con Laravel.\n\nLa mia carriera mi ha portato dall'Italia all'Australia, dove sono cresciuto continuamente come sviluppatore, affrontando sfide diverse e fornendo soluzioni innovative. Ho integrato le interfacce frontend con le azioni backend per creare applicazioni web coese e funzionali.\n\nSono entusiasta di unirmi a un team collaborativo in cui posso contribuire con soluzioni innovative a problemi impegnativi e lavorare insieme per raggiungere risultati eccezionali."
+    },
+    "experience": {
+        "title": "Cosa ho fatto finora",
+        "subTitle": "Esperienza Lavorativa"
+    },
+    "tech": {
+        "title": "Tecnologie",
+        "subTitle": "Queste sono le tecnologie utilizzate"
+    },
+    "works": {
+        "title": "I miei lavori",
+        "subTitle": "Progetti",
+        "description": "Alcuni progetti che mostrano le mie competenze e l'esperienza attraverso esempi reali del mio lavoro. Riflettono la mia capacità di lavorare con diverse tecnologie, risolvere problemi complessi e gestire progetti in modo efficace.",
+        "gitHubSection": {
+            "title": "Scopri",
+            "subTitle": "altri progetti sul mio GitHub"
+        }
+    },
+    "feedbacks": {
+        "title": "Cosa dicono gli altri",
+        "subTitle": "Testimonianze"
+    },
+    "contact": {
+        "title": "Contattami",
+        "subTitle": "Contatti",
+        "form": {
+            "enterName": "Il tuo nome",
+            "namePH": "Come ti chiami?",
+            "enterEmail": "La tua email",
+            "emailPH": "Email",
+            "enterMessage": "Il tuo messaggio",
+            "messagePH": "Messaggio..."
+        }
+    },
+    "noLinkRepos": {
+        "message": "Spiacenti, privata repository.",
+        "button": "Ok"
+    }
+}
