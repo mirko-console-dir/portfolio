@@ -534,7 +534,7 @@ const projects = [
     image: sunbudswork,
     source_code_link: "",
   },
-  /* {
+  {
     name: {
       en: "Chat GPT3",
       it: "Chat GPT3",
@@ -561,8 +561,8 @@ const projects = [
     ],
     image: gpt3,
     source_code_link: "https://mirko-console-dir.github.io/gpt3-modern-design/",
-  }, */
-/*   {
+  }, 
+  {
     name: {
       en: "Minecraft",
       it: "Minecraft",
@@ -617,7 +617,7 @@ const projects = [
     ],
     image: customtshirt,
     source_code_link: "https://mirko-console-dir.github.io/threejs-custom-product/",
-  }, */
+  },
   {
     name: {
       en: "Apple Shop with React",
